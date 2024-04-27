@@ -1,0 +1,83 @@
+body{
+	margin: 0;
+	font-family: "Inknut Antiqua", serif;
+	font-size: 32px;
+	line-height: 50px;
+}
+
+header{
+	background-color: #f5d640;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	 font-family: "Kurale", serif;
+
+}
+
+header h1{
+	color: black;
+	font-size: 80px;
+	}
+
+header img{
+	border-radius: 150px;
+	border: 20px solid #fff5f0;
+}
+
+main{
+	max-width: 1300px;
+	margin: 0 auto;
+	padding: 20px 20px;
+}
+
+main img{
+max-width: 100%; 
+ }
+
+ p, h3{
+ 	text-align: center;
+ 	
+ }
+ h2{
+ 	font-size: 50px;
+ 	margin: 40px 0 10px;
+ 	text-align: center;
+ }
+ a{
+ 	color: #f5d640;
+ }
+ a:hover{ 
+ color: white;
+ background-color:#89b2ae; 
+}
+footer{
+	background-color: #f5d640;
+	text-align: center;
+	padding: 50px;
+	font-size: 50px;
+}
+footer p{
+	margin: 0;
+}
+footer a{
+	color: white;
+}
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+}
+p.caption{
+	color: gray;
+	font style:italic;
+	margin-top: 0;
+}
+ul{
+	list-style: none;
+	text-align: center;
+}
+p.description{
+	text-align: left;
+}
